@@ -1,0 +1,3 @@
+﻿  Vjezba05.cpp
+C:\Users\Leny\Desktop\Vjezba05\Vjezba05\Vjezba05\Vjezba05.cpp(7,14): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Vjezba05.vcxproj -> C:\Users\Leny\Desktop\Vjezba05\Vjezba05\Debug\Vjezba05.exe
